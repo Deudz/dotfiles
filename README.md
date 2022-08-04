@@ -1,12 +1,12 @@
 # dotfiles
-<!-- TODO: versão [pt] (https://github.com/Deudz/dotfiles/blob/main/README-pt.md) -->
+<!-- TODO versão [pt] (https://github.com/Deudz/dotfiles/blob/main/README-pt.md) -->
 
 * what is a dotfile?
 
 dotfiles are files/directories which start with a dot (hence the name dotfiles), they are hidden and usually contain configurations or cache <br>
 they are found in your home directory, an example would be the `.bashrc` file
 
-* how do i show them?
+* how do i see them?
 
 if you are on a terminal, the just type `ls -a` to see them<br>
 but if you are on a gui file explorer like dolphin or nautilus, you usually press `CTRL + h` to show them
@@ -21,5 +21,4 @@ TIP: if you are creating a dotfile to configure a program, create it in .config 
 
 to configure and customize your stuff!
 
-## SCREENSHOTS (they aren't mine)
-
+<!-- TODO ## SCREENSHOTS (they aren't mine) -->
